@@ -1,5 +1,5 @@
 def main():
-    print("سلام دنیا! 👋")
+    print("سلام جهان! 👋")
     print("این اولین پروژه من تو GitHub هست.\n")
     
     name = input("اسمت چیه؟ ")
