@@ -14,7 +14,7 @@ python main.py
 
 
 4. توی Commit message بنویس: `Add README.md`
-5. **Commit new file** رو بزن.
+6. **Commit new file** رو بزن.
 
 ---
 
