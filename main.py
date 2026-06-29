@@ -4,7 +4,7 @@ def main():
     
     name = input("اسمت چی چیه؟ ")
     print(f"\nخوش آمدی {name}!")
-    print("امیدوارم GitHubت همیشه فعال باشه 🚀\n")
+    print("امیدوارم GitHub ت همیشه فعال باشه 🚀\n")
     
     print("چند مثال ساده:")
     print(f"2 + 2 = {2 + 2}")
