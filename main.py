@@ -2,7 +2,7 @@ def main():
     print("سلام جهان! 👋")
     print("این اولین پروژه من تو GitHub هست.\n")
     
-    name = input("اسمت چیه؟ ")
+    name = input("اسمت چی چیه؟ ")
     print(f"\nخوش آمدی {name}!")
     print("امیدوارم GitHubت همیشه فعال باشه 🚀\n")
     
