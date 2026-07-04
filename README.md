@@ -1,5 +1,5 @@
 # Hello GitHub 👋
-Hello GitHub 👋 # ......zzzzzzzzzzzzzzz00000000zz.............
+Hello GitHub 👋 # ......zzzzzzzzzzzzzzz000000000zz.............
 اولین پروژه ساده من تو GitHub.
 
 ## توضیحات
