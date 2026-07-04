@@ -1,6 +1,6 @@
 def main():
     print("سلام جهان! 👋")
-    print("این اولین .....zzzzzzzzzzz...zzzz00z.00000........پروژه من تو GitHub هست.\n")
+    print("این اولین .....zzzzzzzzzzz...zzzz000z.00000........پروژه من تو GitHub هست.\n")
     
     name = input("اسمت رو بنویس؟ ")
     print(f"\nخوش آمدی {name}!")
